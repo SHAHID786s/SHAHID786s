@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SHAHID786s
 - 👀 I’m interested in ... c# NodeJ.s Java IoT Node modules
-- 🌱 I’m currently learning ... C# .NET core
+- 🌱 I’m currently learning ... C# .NET core Entity framework Angular Node.js JavaScript
 - 💞️ I’m looking to collaborate on ... pretty much anything 
 - 📫 How to reach me ... 
 
